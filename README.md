@@ -11,7 +11,7 @@
 
 - Sou **desenvolvedor full stack na Fiducia SCM**, em Sorocaba.
 - Desenvolvo **apps mobile em Flutter** e **front-ends em Angular, React e Next.js**.
-- No back-end, trabalho com **Node.js, NestJS e Fastify**, criando **APIs REST e microsserviços**.
+- No back-end, trabalho com **Node.js, NestJS, Fastify e PHP/Laravel**, criando **APIs REST e microsserviços**.
 - Nas horas vagas, desenvolvo um **MMORPG 3D multiplataforma** em Unity com a [Project-Games505](https://github.com/Project-Games505).
 - Gosto de processo bem feito: git flow, versionamento SemVer, CI, testes automatizados e documentação de decisões.
 
@@ -36,6 +36,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
