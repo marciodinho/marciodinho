@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Marcio 👋</h1>
+<h1 align="center">Olá, eu sou o Dinho 👋</h1>
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b> · Mobile · Front-end · Back-end<br>
